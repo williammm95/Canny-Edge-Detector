@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 25 15:06:48 2020
 
-@author: woocj
-"""
 import numpy as np
 import os
 import cv2 
