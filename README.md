@@ -38,14 +38,14 @@
 
 ### LoG edge detector output
 
-![Leaf](https://github.com/williammm95/Canny-Edge-Detector/blob/master/log_edge_output/leaf_2st.jpg)
+![Leaf](https://github.com/williammm95/Canny-Edge-Detector/blob/master/log_edge_output/leaf_2nd.jpg)
 
 ![Cana](https://github.com/williammm95/Canny-Edge-Detector/blob/master/log_edge_output/cana_2nd.jpg)
 
-![fruit](https://github.com/williammm95/Canny-Edge-Detector/blob/master/log_edge_output/fruit_2st.jpg)
+![fruit](https://github.com/williammm95/Canny-Edge-Detector/blob/master/log_edge_output/fruit_2nd.jpg)
 
-![img335](https://github.com/williammm95/Canny-Edge-Detector/blob/master/log_edge_output/img335_2st.jpg)
+![img335](https://github.com/williammm95/Canny-Edge-Detector/blob/master/log_edge_output/img335_2nd.jpg)
 
-![lamp](https://github.com/williammm95/Canny-Edge-Detector/blob/master/log_edge_output/lamp_2st.jpg)
+![lamp](https://github.com/williammm95/Canny-Edge-Detector/blob/master/log_edge_output/lamp_2nd.jpg)
 
 # feel free to drop any questions!
